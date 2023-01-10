@@ -40,20 +40,20 @@ Recommendations are classified by tiers "none, low, medium, or high"
 ## DEMO
 
 ### AWS account
-![aws](Test_Events/aws.png)
+![aws](/aws.png)
 
 ### BOT WORKS
-![demo](Test_Events/demo.png)
+![demo](/demo.png)
 ### BOT DIALOG 
-![roboadvisor](Test_Events/roboadvisor.png)
+![roboadvisor](/roboadvisor.png)
 ### TEST  Age
-![test1](Test_Events/test1.png)
+![test1](/test1.png)
 ### TEST  Negative Age
-![test2](Test_Events/test2.png)
+![test2](/test2.png)
 ### TEST  Amount
-![test3](Test_Events/test3.png)
+![test3](/test3.png)
 ### TEST  Incorrect Amount
-![test4](Test_Events/test4.png)
+![test4](/test4.png)
 
 
 ## Contributors
